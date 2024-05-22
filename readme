@@ -1,0 +1,45 @@
+Garbage Grabberoos - README
+
+Overview
+-------
+Garbage Grabberoos is an educational game designed to teach upper primary students about environmental conservation and climate change. 
+Players search for and discard pieces of environmentally damaging rubbish hidden on an 11x10 grid. 
+The objective is to find all the rubbish as quickly as possible without running out of guesses. 
+The game records the player's time and displays the fastest times on the Speedy Searchers leaderboard.
+
+How to Play
+-----------
+Sign Up:
+When you first launch the game, you will need to sign up with a username (minimum 8 characters) and a password (minimum 6 characters).
+
+Login:
+After signing up, log in using your new credentials.
+
+Start Game:
+From the main menu, select "Start Game" to begin. An 11x10 grid will be displayed.
+
+Gameplay:
+Click on the grid cells to search for rubbish. If a cell contains rubbish, it will be marked as found. 
+If the cell is empty, your guess count will decrease. Continue clicking until all rubbish is found or guesses run out.
+
+Winning and Losing:
+Winning: Find all pieces of rubbish before your guesses run out. Your completion time will be recorded.
+Losing: If you run out of guesses before finding all the rubbish, you will see a losing message and can restart the game.
+
+Leaderboard:
+After winning, your time is recorded and displayed on the Speedy Searchers leaderboard.
+
+Running the Program
+-------------------
+1. Download and Install:
+   - Clone the repository from GitHub or download the ZIP file.
+
+2. Open in Visual Studio:
+   - Open Visual Studio.
+   - Navigate to the extracted folder and open the `garbagegrabberoos.vbproj` file.
+
+3. Run the Game:
+   - Press `F5` to run the program.
+
+Enjoy playing Garbage Grabberoos and learn about the importance of keeping our environment clean! 
+For any issues or feedback, feel free to reach out through the repository's issue tracker.
